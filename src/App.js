@@ -1,8 +1,25 @@
 import logo from './logo.svg';
 import './App.css';
 
+import { add } from './utils';
+
 function App() {
-// var legalCampaignProsecutingHonepotContentIs = "yikes... smeagol incels and smeagol criminals that feign and live and breath over anime (and store useless incel-like content in their hippocampus's memory slots"
+  
+
+
+  return (
+    <div className="App">
+      <header className="App-header">
+        <h2>spaceforce.gov - prosecution tool utilizing quantum physics and g-adhd brain mri scans ; darpa.gov; spaceforce.gov; airforce.gov</h2>
+
+      </header>
+    </div>
+  );
+}
+
+
+// function neutra() {
+//   var legalCampaignProsecutingHonepotContentIs = "yikes... smeagol incels and smeagol criminals that feign and live and breath over anime (and store useless incel-like content in their hippocampus's memory slots"
 
 // while (legalCampaignProsecutingHonepotContentIs == "yikes... smeagol incels and smeagol criminals that feign and live and breath over anime (and store useless incel-like content in their hippocampus's memory slots") {
 //     for (var i = 0; i< 12; i++) {
@@ -22,26 +39,6 @@ function App() {
 //     console.log("ryanreynolds.gov"+ "the index beat of 12 beats in a measure is:" + i);
 
 // }
-
-
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+// }
 
 export default App;
