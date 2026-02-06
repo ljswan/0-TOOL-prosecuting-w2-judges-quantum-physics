@@ -4,6 +4,8 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+
+
 // var legalCampaignProsecutingHonepotContentIs = "yikes... smeagol incels and smeagol criminals that feign and live and breath over anime (and store useless incel-like content in their hippocampus's memory slots"
 
 // while (legalCampaignProsecutingHonepotContentIs == "yikes... smeagol incels and smeagol criminals that feign and live and breath over anime (and store useless incel-like content in their hippocampus's memory slots") {
